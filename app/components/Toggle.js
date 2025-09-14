@@ -1,5 +1,5 @@
-import React from "react";
-import { Switch, Platform } from "react-native";
+import { Platform, Switch } from "react-native";
+//
 
 export default function Toggle({
   value,
